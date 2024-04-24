@@ -19,17 +19,17 @@ def payee_stats(df):
     # Plot total transactions over time
     st.subheader('Total Transactions Over Time')
     fig1 = px.histogram(payee_df, x='date', title='Total Transactions Over Time')
-    st.plotly_chart(fig1)
+    st.plotly_chart(fig1, use_container_width=True)
 
     # Plot amount spent vs. amount received over time
     st.subheader('Amount Spent vs. Amount Received Over Time')
     fig2 = px.line(payee_df, x='date', y='amount', color='type', title='Amount Spent vs. Amount Received Over Time')
-    st.plotly_chart(fig2)
+    st.plotly_chart(fig2, use_container_width=True)
 
     # Plot transaction distribution by type
     st.subheader('Transaction Distribution by Type')
     fig3 = px.histogram(payee_df, x='type', title='Transaction Distribution by Type')
-    st.plotly_chart(fig3)
+    st.plotly_chart(fig3, use_container_width=True)
 
     # Group transactions by year and type (debit/credit)
     year_grouped = payee_df.groupby([payee_df['date'].dt.year, 'type'])['amount'].sum().reset_index()
@@ -39,4 +39,4 @@ def payee_stats(df):
     fig4 = px.bar(year_grouped, x='date', y='amount', color='type', barmode='group', 
                   labels={'date': 'Year', 'amount': 'Amount'}, 
                   title='Yearly Credit and Debit Amounts')
-    st.plotly_chart(fig4)
+    st.plotly_chart(fig4 , use_container_width=True)

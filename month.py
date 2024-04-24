@@ -27,11 +27,11 @@ def main(df):
     # top_payees_spent = month_df[month_df['type'] == 'DEBIT'].groupby('payee')['amount'].sum().nlargest(5)
     # st.write('Top 5 Payees by Amount Spent:')
     # st.bar_chart(top_payees_spent)
-    st.plotly_chart(px.pie(month_df[month_df['type'] == 'DEBIT'], values='amount', names='payee', title='Money Spent Distribution'))
+    st.plotly_chart(px.pie(month_df[month_df['type'] == 'DEBIT'], values='amount', names='payee', title='Money Spent Distribution'), use_container_width=True)
     # Pie chart for money received
-    st.plotly_chart(px.pie(month_df[month_df['type'] == 'CREDIT'], values='amount', names='payee', title='Money Received Distribution'))
+    st.plotly_chart(px.pie(month_df[month_df['type'] == 'CREDIT'], values='amount', names='payee', title='Money Received Distribution'), use_container_width=True)
 
     # Daily transaction amounts
     daily_amounts = month_df.groupby(month_df['date'].dt.day)['amount'].sum()
     st.write('Daily Transaction Amounts:')
-    st.line_chart(daily_amounts)
+    st.line_chart(daily_amounts, use_container_width=True)
