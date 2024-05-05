@@ -1,0 +1,587 @@
+Date,Time,Type,Amount,Payee
+"May 01, 2024",01:25 PM,DEBIT,20,Paid to Saif Ali 
+"May 01, 2024",10:52 AM,DEBIT,30,Paid to Ss general store 
+"Apr 30, 2024",05:14 PM,DEBIT,40,Paid to Deepak Kumar 
+"Apr 30, 2024",01:27 PM,DEBIT,80,Paid to NASIR ENTERPRISE FRUIT AND VEGETABLES 
+"Apr 30, 2024",01:14 PM,DEBIT,20,Paid to SURJIT KUMAR SANDHU  
+"Apr 30, 2024",01:13 PM,DEBIT,10,Paid to D K General Store 
+"Apr 29, 2024",10:45 PM,DEBIT,45,Paid to Shiva Teja Friend Lpu 
+"Apr 29, 2024",10:19 PM,DEBIT,20,Paid to Sattu Revanth Lpu 
+"Apr 29, 2024",10:13 PM,DEBIT,100,Paid to Anil Cricket Lpu 
+"Apr 29, 2024",09:52 PM,CREDIT,200,Received from Sattu Revanth Lpu 
+"Apr 29, 2024",09:41 PM,CREDIT,80,Received from Sattu Revanth Lpu 
+"Apr 29, 2024",09:39 PM,DEBIT,30,Paid to BB MART 
+"Apr 29, 2024",09:37 PM,DEBIT,59,Paid to BALAJI MART 
+"Apr 29, 2024",08:37 PM,DEBIT,200,Transfer to XX1214 
+"Apr 29, 2024",08:36 PM,DEBIT,200,Paid to LANKIPALLI  SAI DINESH 
+"Apr 29, 2024",08:00 PM,DEBIT,200,Paid to Sattu Revanth Lpu 
+"Apr 29, 2024",08:00 PM,CREDIT,200,Received from Mahesh Cricket Lpu 
+"Apr 29, 2024",07:55 PM,DEBIT,60,Paid to Ajeet PANI PURI CENTER 
+"Apr 29, 2024",07:54 PM,CREDIT,200,Received from Sattu Revanth Lpu 
+"Apr 29, 2024",04:11 PM,DEBIT,20,Paid to MANPREET  SINGH 
+"Apr 29, 2024",03:20 PM,DEBIT,50,Paid to Gumpi 
+"Apr 29, 2024",03:01 PM,DEBIT,60,Paid to JINENDER MANDA 
+"Apr 29, 2024",02:05 PM,DEBIT,30,Paid to CAMPUS CART 4 
+"Apr 28, 2024",09:06 PM,CREDIT,67,Received from Jayanth Bro Lpu Brajesh Pg 
+"Apr 28, 2024",08:48 PM,DEBIT,200,Paid to Rakhi Brajesh Room Lpu 
+"Apr 28, 2024",07:51 PM,DEBIT,24,Paid to shiva and samosa chat corner 
+"Apr 28, 2024",07:34 PM,CREDIT,40,Received from Raj Tamil Cricket Lpu 
+"Apr 28, 2024",07:34 PM,DEBIT,200,Paid to Mahesh Cricket Lpu 
+"Apr 28, 2024",07:34 PM,DEBIT,200,Paid to Charan Cricket Lpu 
+"Apr 28, 2024",07:32 PM,CREDIT,160,Received from Raj Tamil Cricket Lpu 
+"Apr 28, 2024",07:12 PM,DEBIT,200,Paid to Chandu Junior 2 
+"Apr 28, 2024",07:11 PM,CREDIT,350,Received from Raj Tamil Cricket Lpu 
+"Apr 28, 2024",07:10 PM,DEBIT,200,Paid to Baji Junior Lpu Cricket 
+"Apr 28, 2024",07:10 PM,DEBIT,200,Paid to Laxmi Pathi Junior Lpu 
+"Apr 28, 2024",07:09 PM,CREDIT,450,Received from Raj Tamil Cricket Lpu 
+"Apr 28, 2024",07:02 PM,DEBIT,100,Paid to Sai Dinesh Cricket Lpu 
+"Apr 28, 2024",07:01 PM,DEBIT,150,Paid to Anil Cricket Lpu 
+"Apr 28, 2024",07:00 PM,CREDIT,625,Received from Sattu Revanth Lpu 
+"Apr 28, 2024",03:08 PM,DEBIT,20,Paid to Sattu Revanth Lpu 
+"Apr 27, 2024",09:15 PM,DEBIT,45,Paid to Bala ji vegetables 
+"Apr 27, 2024",09:10 PM,DEBIT,368,Paid to BB MART 
+"Apr 27, 2024",09:04 PM,CREDIT,400,Received from Rakhi Brajesh Room Lpu 
+"Apr 27, 2024",08:33 PM,DEBIT,23,Paid to Jayanth Bro Lpu Brajesh Pg 
+"Apr 27, 2024",08:33 PM,DEBIT,83,Paid to Rakhi Brajesh Room Lpu 
+"Apr 27, 2024",08:16 PM,DEBIT,20,Paid to Baji Junior Lpu Cricket 
+"Apr 27, 2024",08:15 PM,DEBIT,1,Paid to Ajeet PANI PURI CENTER 
+"Apr 27, 2024",07:38 PM,CREDIT,16,Received from Sattu Revanth Lpu 
+"Apr 27, 2024",07:36 PM,DEBIT,200,Paid to Baji Junior Lpu Cricket 
+"Apr 27, 2024",07:36 PM,DEBIT,400,Paid to Mahesh Cricket Lpu 
+"Apr 27, 2024",07:36 PM,DEBIT,50,Paid to Charan Cricket Lpu 
+"Apr 27, 2024",07:32 PM,CREDIT,800,Received from Sattu Revanth Lpu 
+"Apr 27, 2024",04:16 PM,DEBIT,60,Paid to Mahesh Cricket Lpu 
+"Apr 27, 2024",04:16 PM,CREDIT,60,Received from Sattu Revanth Lpu 
+"Apr 26, 2024",04:20 PM,DEBIT,20,Paid to Baji Junior Lpu Cricket 
+"Apr 26, 2024",01:46 PM,DEBIT,65,Paid to S D ENTERPRISES 
+"Apr 26, 2024",01:41 PM,DEBIT,20,Paid to Harmanpreet 
+"Apr 26, 2024",11:18 AM,DEBIT,25,Paid to BABLU KUMAR 
+"Apr 26, 2024",07:34 AM,CREDIT,33,Received from Jayanth Bro Lpu Brajesh Pg 
+"Apr 26, 2024",12:33 AM,CREDIT,16,Received from Rakhi Brajesh Room Lpu 
+"Apr 25, 2024",09:40 PM,DEBIT,10,Paid to Bala ji vegetables 
+"Apr 25, 2024",09:39 PM,DEBIT,19,Paid to BALAJI MART 
+"Apr 25, 2024",09:31 PM,DEBIT,130,Paid to Shiva Teja Friend Lpu 
+"Apr 25, 2024",09:29 PM,DEBIT,50,Paid to Anil Cricket Lpu 
+"Apr 25, 2024",09:27 PM,CREDIT,300,Received from Mahesh Cricket Lpu 
+"Apr 25, 2024",08:34 PM,DEBIT,60,Paid to BALAJI MART 
+"Apr 25, 2024",08:01 PM,CREDIT,60,Received from Varma Cricket Lpu 
+"Apr 25, 2024",03:53 PM,DEBIT,2,Paid to Varma Cricket Lpu 
+"Apr 25, 2024",03:53 PM,DEBIT,20,Paid to Varma Cricket Lpu 
+"Apr 25, 2024",01:37 PM,DEBIT,90,Paid to OVEN EXPRESS  
+"Apr 25, 2024",01:30 PM,DEBIT,20,Paid to Manga singh 
+"Apr 25, 2024",01:22 PM,DEBIT,10,Paid to D K General Store 
+"Apr 24, 2024",08:11 PM,DEBIT,30,Paid to Bala ji vegetables 
+"Apr 24, 2024",08:08 PM,DEBIT,70,Paid to BALAJI MART 
+"Apr 24, 2024",04:44 PM,CREDIT,20,Received from Varma Cricket Lpu 
+"Apr 24, 2024",04:44 PM,DEBIT,40,Paid to Manjit Kaur 
+"Apr 24, 2024",01:54 PM,DEBIT,20,Paid to Talk of the town 
+"Apr 24, 2024",01:19 PM,DEBIT,80,Paid to ANAND DAIRY 
+"Apr 24, 2024",01:13 PM,CREDIT,18,Received from Rakhi Brajesh Room Lpu 
+"Apr 24, 2024",01:02 PM,DEBIT,20,Paid to KULJIT AUTO 
+"Apr 23, 2024",08:00 PM,DEBIT,15,Paid to Sattu Revanth Lpu 
+"Apr 23, 2024",07:49 PM,DEBIT,300,Paid to +91 62054 11846 
+"Apr 23, 2024",07:30 PM,CREDIT,200,Received from Sattu Revanth Lpu 
+"Apr 23, 2024",02:38 PM,DEBIT,14,Paid to Sattu Revanth Lpu 
+"Apr 23, 2024",01:53 PM,CREDIT,18,Received from Sattu Revanth Lpu 
+"Apr 23, 2024",01:46 PM,DEBIT,70,Paid to BABLU KUMAR 
+"Apr 23, 2024",01:32 PM,DEBIT,20,Paid to BABLU KUMAR 
+"Apr 23, 2024",01:24 PM,DEBIT,10,Paid to Ss general store 
+"Apr 23, 2024",10:04 AM,DEBIT,100,Paid to Shiva Teja Friend Lpu 
+"Apr 23, 2024",10:03 AM,DEBIT,18,Paid to Jayanth Bro Lpu Brajesh Pg 
+"Apr 23, 2024",10:02 AM,DEBIT,177,Paid to Rakhi Brajesh Room Lpu 
+"Apr 23, 2024",10:02 AM,DEBIT,132,Paid to Jayanth Bro Lpu Brajesh Pg 
+"Apr 22, 2024",09:06 PM,DEBIT,10,Paid to RAJWANT KAUR 
+"Apr 22, 2024",08:59 PM,DEBIT,10,Paid to Ss general store 
+"Apr 22, 2024",06:59 PM,DEBIT,50,Paid to DUDIMATLA VINAY KUMAR 
+"Apr 22, 2024",06:58 PM,DEBIT,100,Paid to DUDIMATLA VINAY KUMAR 
+"Apr 22, 2024",06:53 PM,CREDIT,100,Received from Varma Cricket Lpu 
+"Apr 22, 2024",04:21 PM,CREDIT,20,Received from Varma Cricket Lpu 
+"Apr 22, 2024",03:59 PM,DEBIT,20,Paid to Varma Cricket Lpu 
+"Apr 22, 2024",03:58 PM,DEBIT,10,Transfer to XX1214 
+"Apr 22, 2024",01:26 PM,DEBIT,20,Paid to RAVI KUMAR 
+"Apr 22, 2024",12:15 PM,DEBIT,20,Paid to BABLU KUMAR 
+"Apr 21, 2024",07:45 PM,DEBIT,20,Paid to RAJWANT KAUR 
+"Apr 21, 2024",06:59 PM,DEBIT,100,Paid to Sattu Revanth Lpu 
+"Apr 21, 2024",06:49 PM,DEBIT,100,Paid to Baji Junior Lpu Cricket 
+"Apr 21, 2024",03:12 PM,DEBIT,100,Paid to Shiva Teja Friend Lpu 
+"Apr 20, 2024",11:15 PM,DEBIT,30,Paid to Shiva Teja Friend Lpu 
+"Apr 20, 2024",11:10 PM,DEBIT,80,Paid to Shiva Teja Friend Lpu 
+"Apr 20, 2024",07:17 PM,DEBIT,30,Paid to RAJWANT KAUR 
+"Apr 20, 2024",12:06 PM,DEBIT,88,Paid to Rakhi Brajesh Room Lpu 
+"Apr 19, 2024",10:28 PM,CREDIT,970,Received from Sattu Revanth Lpu 
+"Apr 19, 2024",08:45 PM,CREDIT,320,Received from Sonalika Friend Trip Lpu 
+"Apr 19, 2024",07:39 PM,DEBIT,20,Transfer to XXXXXX3072 
+"Apr 19, 2024",07:15 PM,DEBIT,50,Paid to Nithin Cricket Lpu 
+"Apr 19, 2024",07:14 PM,CREDIT,250,Received from Varma Cricket Lpu 
+"Apr 19, 2024",03:24 PM,DEBIT,160,Transfer to XX1214 
+"Apr 19, 2024",02:47 PM,DEBIT,10,Paid to Ss general store 
+"Apr 19, 2024",02:44 PM,DEBIT,5,Paid to Manoj Fast Food 
+"Apr 19, 2024",02:43 PM,DEBIT,20,Paid to KULJIT AUTO 
+"Apr 19, 2024",09:21 AM,DEBIT,20,Paid to Paramjit auto 
+"Apr 19, 2024",09:19 AM,DEBIT,330,Paid to PRANAV MEDICAL 
+"Apr 18, 2024",10:29 PM,DEBIT,140,Paid to Sattu Revanth Lpu 
+"Apr 18, 2024",02:49 PM,DEBIT,14,Paid to BABLU KUMAR 
+"Apr 17, 2024",09:58 PM,DEBIT,60,Paid to BABLU KUMAR 
+"Apr 17, 2024",07:52 PM,DEBIT,20,Paid to Varma Cricket Lpu 
+"Apr 17, 2024",02:45 PM,DEBIT,270,Paid to Talk of the town 
+"Apr 17, 2024",02:44 PM,CREDIT,70,Received from Nanda Friend Lpu 
+"Apr 17, 2024",02:43 PM,CREDIT,50,Received from Mr BAVANARI ANIL KUMAR 
+"Apr 17, 2024",08:38 AM,DEBIT,764,Transfer to XXXXXX3072 
+"Apr 17, 2024",08:37 AM,DEBIT,20,Paid to ASHOKE KUMAR 
+"Apr 17, 2024",08:33 AM,CREDIT,800,Received from Mom 
+"Apr 16, 2024",10:07 PM,DEBIT,29,Paid to BABLU KUMAR 
+"Apr 16, 2024",07:23 PM,DEBIT,40,Paid to SURJIT SINGH 
+"Apr 16, 2024",03:43 PM,DEBIT,40,Paid to VARINDAVAN 
+"Apr 16, 2024",01:51 PM,DEBIT,20,Paid to Malkit Kumar 
+"Apr 16, 2024",01:45 PM,DEBIT,80,Paid to Telangana Foods 
+"Apr 16, 2024",11:31 AM,DEBIT,50,Paid to Sai Friend 2  
+"Apr 15, 2024",10:27 PM,DEBIT,10,Paid to B.B MART 
+"Apr 15, 2024",07:34 PM,DEBIT,100,Paid to Varma Cricket Lpu 
+"Apr 15, 2024",05:30 PM,CREDIT,32,Received from Sattu Revanth Lpu 
+"Apr 15, 2024",05:27 PM,DEBIT,74,Paid to D K General Store 
+"Apr 15, 2024",05:21 PM,DEBIT,40,Paid to Ajeet PANI PURI CENTER 
+"Apr 15, 2024",05:13 PM,DEBIT,20,Paid to SURJIT KUMAR SANDHU  
+"Apr 15, 2024",05:08 PM,DEBIT,210,Paid to Jayanth Bro Lpu Brajesh Pg 
+"Apr 15, 2024",01:47 PM,DEBIT,20,Paid to PARDEEP KUMAR 
+"Apr 15, 2024",01:45 PM,DEBIT,13,Transfer to XX1214 
+"Apr 15, 2024",10:58 AM,DEBIT,30,Paid to BABLU KUMAR 
+"Apr 14, 2024",07:56 PM,DEBIT,200,Paid to +91 62054 11846 
+"Apr 14, 2024",07:42 PM,CREDIT,200,Received from Sattu Revanth Lpu 
+"Apr 14, 2024",07:11 PM,DEBIT,50,Paid to Lucky General Store 
+"Apr 14, 2024",06:46 PM,DEBIT,100,Transfer to XX1214 
+"Apr 14, 2024",06:46 PM,CREDIT,600,Received from Mahesh Cricket Lpu 
+"Apr 14, 2024",06:33 PM,DEBIT,100,Transfer to XX1214 
+"Apr 14, 2024",06:31 PM,CREDIT,180,Received from Varma Cricket Lpu 
+"Apr 14, 2024",06:30 PM,CREDIT,100,Received from Naveen Bro Lpu 
+"Apr 14, 2024",06:29 PM,CREDIT,100,Received from Anil Cricket Lpu 
+"Apr 14, 2024",04:10 PM,CREDIT,60,Received from GAURAV SAHU 
+"Apr 14, 2024",04:10 PM,DEBIT,60,Paid to Mahesh Cricket Lpu 
+"Apr 14, 2024",04:08 PM,DEBIT,50,Paid to Ajeet PANI PURI CENTER 
+"Apr 14, 2024",03:06 PM,DEBIT,300,Paid to KUNA ESHWAR SHESHU 
+"Apr 14, 2024",01:24 PM,DEBIT,125,Transfer to XX1214 
+"Apr 14, 2024",01:23 PM,CREDIT,100,Received from Mahesh Cricket Lpu 
+"Apr 14, 2024",07:42 AM,DEBIT,20,Paid to Arun Pan Shop 
+"Apr 13, 2024",07:19 PM,DEBIT,121,Paid to Jayanth Bro Lpu Brajesh Pg 
+"Apr 13, 2024",06:44 PM,DEBIT,50,Transfer to XX1214 
+"Apr 13, 2024",06:44 PM,DEBIT,220,Paid to Mahesh Cricket Lpu 
+"Apr 13, 2024",06:43 PM,DEBIT,440,Paid to Sattu Revanth Lpu 
+"Apr 13, 2024",06:43 PM,DEBIT,220,Paid to Anil Cricket Lpu 
+"Apr 12, 2024",09:21 PM,DEBIT,14,Paid to Ss general store 
+"Apr 12, 2024",08:51 PM,CREDIT,14,Received from Sattu Revanth Lpu 
+"Apr 12, 2024",08:45 PM,DEBIT,14,Paid to Sattu Revanth Lpu 
+"Apr 12, 2024",08:01 PM,DEBIT,200,Paid to Ajay Bro Cricket Lpu 
+"Apr 12, 2024",08:01 PM,CREDIT,200,Received from Sattu Revanth Lpu 
+"Apr 12, 2024",07:39 PM,DEBIT,100,Paid to Ajay Bro Cricket Lpu 
+"Apr 12, 2024",07:38 PM,DEBIT,200,Paid to Ajay Bro Cricket Lpu 
+"Apr 12, 2024",07:32 PM,CREDIT,200,Received from Mahesh Cricket Lpu 
+"Apr 12, 2024",03:59 PM,DEBIT,40,Paid to Chaudhary Rickshaw Service 
+"Apr 12, 2024",10:42 AM,DEBIT,20,Paid to Laxmi Pathi Junior Lpu 
+"Apr 11, 2024",07:15 PM,DEBIT,10,Paid to Laxmi Pathi Junior Lpu 
+"Apr 11, 2024",04:01 PM,DEBIT,40,Paid to Varma Cricket Lpu 
+"Apr 11, 2024",03:46 PM,DEBIT,40,Paid to BIKRAM JIT SO SH HARMESH LAL 
+"Apr 11, 2024",02:22 PM,DEBIT,60,Paid to Avtar Hundal 
+"Apr 11, 2024",02:22 PM,CREDIT,20,Received from Baji Junior Lpu Cricket 
+"Apr 10, 2024",10:49 PM,CREDIT,20,Received from Laxmi Pathi Junior Lpu 
+"Apr 10, 2024",08:09 PM,DEBIT,130,Paid to Sattu Revanth Lpu 
+"Apr 10, 2024",07:05 PM,DEBIT,20,Paid to BABLU KUMAR 
+"Apr 10, 2024",04:22 PM,DEBIT,60,Paid to JASWINDER 
+"Apr 10, 2024",01:42 PM,DEBIT,20,Paid to KULJIT AUTO 
+"Apr 10, 2024",01:36 PM,DEBIT,80,Paid to SUJATHA UGGAM 
+"Apr 09, 2024",09:13 PM,DEBIT,200,Paid to KUNA ESHWAR SHESHU 
+"Apr 09, 2024",08:01 PM,CREDIT,200,Received from Sattu Revanth Lpu 
+"Apr 09, 2024",07:08 PM,DEBIT,20,Paid to Mr Pankaj Chopra 
+"Apr 09, 2024",06:40 PM,DEBIT,20,Paid to Mr Pankaj Chopra 
+"Apr 09, 2024",06:26 PM,DEBIT,80,Paid to OVEN EXPRESS  
+"Apr 09, 2024",03:27 PM,DEBIT,200,Transfer to XX1214 
+"Apr 09, 2024",01:41 PM,DEBIT,20,Paid to Varma Cricket Lpu 
+"Apr 09, 2024",01:36 PM,DEBIT,40,Paid to SUJATHA UGGAM 
+"Apr 09, 2024",12:48 PM,DEBIT,200,Paid to Shiva Teja Friend Lpu 
+"Apr 08, 2024",08:27 PM,DEBIT,400,Paid to KUNA ESHWAR SHESHU 
+"Apr 08, 2024",04:08 PM,DEBIT,20,Paid to Varma Cricket Lpu 
+"Apr 07, 2024",11:25 PM,DEBIT,200,Paid to Varma Cricket Lpu 
+"Apr 07, 2024",11:25 PM,CREDIT,200,Received from Shiva Teja Friend Lpu 
+"Apr 06, 2024",11:11 PM,CREDIT,210,Received from Jayanth Bro Lpu Brajesh Pg 
+"Apr 06, 2024",10:32 PM,CREDIT,645,Received from Sanjana Friend Trip Lpu 
+"Apr 06, 2024",10:04 PM,DEBIT,215,Transfer to XX1214 
+"Apr 06, 2024",03:58 PM,DEBIT,20,Paid to RAMESH KUMAR 
+"Apr 06, 2024",03:22 PM,DEBIT,20,Paid to SANDEEP  SINGH 
+"Apr 05, 2024",11:53 AM,DEBIT,20,Paid to Rakhi Brajesh Room Lpu 
+"Apr 05, 2024",11:52 AM,DEBIT,300,Paid to Rakhi Brajesh Room Lpu 
+"Apr 05, 2024",11:44 AM,DEBIT,200,Paid to Sattu Revanth Lpu 
+"Apr 04, 2024",09:31 PM,CREDIT,500,Received from Manisha 2 
+"Apr 03, 2024",10:45 PM,DEBIT,50,Paid to Hunger Nest 
+"Apr 03, 2024",10:44 PM,CREDIT,100,Received from Ram Annaya 2 
+"Apr 03, 2024",09:48 AM,CREDIT,125,Received from mani 
+"Apr 02, 2024",06:12 PM,DEBIT,25,Paid to Venkaramana Chat 
+"Apr 02, 2024",06:05 PM,DEBIT,20,Paid to YALAMARTHY SARATH KUMAR 
+"Apr 02, 2024",05:57 PM,DEBIT,100,Paid to GRAND HP MILLENNIUM 
+"Apr 02, 2024",05:44 PM,DEBIT,170,Paid to KEBABLICIOUS 
+"Apr 02, 2024",05:13 PM,DEBIT,100,Paid to KAILASH PAV BHAJJI CENTRE 
+"Apr 02, 2024",10:36 AM,DEBIT,30,Paid to REDDIPALLI SRIRAM 
+"Apr 02, 2024",10:32 AM,DEBIT,35,Paid to Sagi Sridevi 
+"Apr 01, 2024",05:18 PM,DEBIT,25,Paid to A1 EVENTS 
+"Apr 01, 2024",05:11 PM,DEBIT,120,Paid to HARLAL 
+"Apr 01, 2024",02:32 PM,DEBIT,600,Paid to SAI SAGARIKA 
+"Apr 01, 2024",02:31 PM,CREDIT,500,Received from Mounika 
+"Apr 01, 2024",10:47 AM,DEBIT,25,Paid to Cream Fest Kulfi 
+"Apr 01, 2024",09:47 AM,DEBIT,60,Paid to Mahesh Tiffen center 
+"Apr 01, 2024",09:31 AM,DEBIT,38,Paid to Siva Sravani Milk Supplier 
+"Apr 01, 2024",09:22 AM,DEBIT,150,Paid to MILLENNIUM COMCO OUTLET 
+"Apr 01, 2024",08:41 AM,CREDIT,400,Received from Mom 
+"Mar 31, 2024",12:48 PM,DEBIT,10,Paid to ABHIMANYU DHAL 
+"Mar 31, 2024",12:47 PM,DEBIT,435,Paid to Sri Ravindra Enterprises 
+"Mar 31, 2024",12:00 PM,DEBIT,30,Paid to SRI GANAPATHI SHANMUKHA SAI PAN SHOP 
+"Mar 31, 2024",11:46 AM,DEBIT,120,Paid to Narayana reddy T 
+"Mar 31, 2024",11:29 AM,CREDIT,900,Received from Divakar Junior Cricket Lpu 
+"Mar 31, 2024",11:24 AM,DEBIT,60,Paid to SRINIVASU JUICE SHOP  
+"Mar 30, 2024",07:05 PM,DEBIT,20,Paid to LEMON JUICE 
+"Mar 30, 2024",05:54 PM,DEBIT,30,Paid to AMIREDDI MOHAN 
+"Mar 30, 2024",05:46 PM,DEBIT,25,Paid to A1 EVENTS 
+"Mar 30, 2024",05:06 PM,DEBIT,10,Paid to Ernimamaba Shop 
+"Mar 30, 2024",05:05 PM,DEBIT,70,Paid to Ippili Sravani 
+"Mar 30, 2024",05:05 PM,DEBIT,60,Paid to Shiva simhadri hot chat  
+"Mar 30, 2024",10:13 AM,DEBIT,700,Paid to Ravi Jagadamba Lodge 
+"Mar 30, 2024",09:01 AM,DEBIT,80,Paid to SREE SAI GANESH PARLOUR 
+"Mar 30, 2024",08:32 AM,DEBIT,220,Paid to KADIMI KALYAN 
+"Mar 29, 2024",10:11 PM,DEBIT,100,Paid to HOTELNEWANUPAMAANUPA 
+"Mar 28, 2024",10:52 PM,DEBIT,210,Paid to SUBHASHINI MUPPALLA 
+"Mar 28, 2024",10:47 PM,CREDIT,500,Received from Manisha 2 
+"Mar 28, 2024",07:20 PM,DEBIT,350,Paid to SREERAM NAIK  BUKKE 
+"Mar 27, 2024",03:16 PM,DEBIT,40,Paid to Mr N RAMESH 
+"Mar 27, 2024",09:38 AM,DEBIT,110,Paid to Neelufar 
+"Mar 26, 2024",03:40 PM,DEBIT,420,Paid to Devi Dyal General Store 
+"Mar 26, 2024",03:24 PM,DEBIT,10,Paid to SANDEEP CHAUHAN 
+"Mar 26, 2024",03:09 PM,DEBIT,80,Paid to BALAJI MART 
+"Mar 26, 2024",03:02 PM,DEBIT,90,Paid to SUJATHA UGGAM 
+"Mar 25, 2024",11:39 PM,CREDIT,50,Received from Shiva Teja Friend Lpu 
+"Mar 25, 2024",11:39 PM,CREDIT,340,Received from Sonalika Friend Trip Lpu 
+"Mar 25, 2024",11:37 PM,CREDIT,180,Received from Rakhi Brajesh Room Lpu 
+"Mar 25, 2024",11:36 PM,CREDIT,180,Received from Rakhi Brajesh Room Lpu 
+"Mar 25, 2024",05:30 PM,DEBIT,470,Paid to MOHAMMAD NADEEM AKHTAR 
+"Mar 23, 2024",12:22 PM,CREDIT,500,Received from DAD  
+"Mar 22, 2024",11:19 PM,DEBIT,50,Paid to Sattu Revanth Lpu 
+"Mar 22, 2024",10:49 PM,DEBIT,20,Paid to Bombay chopati ice cream 
+"Mar 22, 2024",10:38 PM,DEBIT,20,Paid to Ronit Fast Food 
+"Mar 22, 2024",01:26 PM,DEBIT,10,Paid to Anil Stationers 
+"Mar 22, 2024",01:05 PM,DEBIT,100,Paid to V VEERA BRAHMAM 
+"Mar 22, 2024",01:05 PM,CREDIT,100,Received from Laxmi Pathi Junior Lpu 
+"Mar 22, 2024",01:05 PM,DEBIT,40,Paid to V VEERA BRAHMAM 
+"Mar 22, 2024",10:06 AM,DEBIT,10,Paid to Anil Stationers 
+"Mar 22, 2024",10:02 AM,DEBIT,60,Paid to Varma Cricket Lpu 
+"Mar 22, 2024",09:11 AM,DEBIT,15,Paid to SUKHNINDER KUMAR 
+"Mar 22, 2024",09:03 AM,DEBIT,20,Paid to PARMINDER 
+"Mar 21, 2024",10:03 PM,DEBIT,40,Paid to PALACHARLA RAM VEER AKSHAY 
+"Mar 21, 2024",09:43 PM,DEBIT,160,Paid to SUJATHA UGGAM 
+"Mar 21, 2024",03:59 PM,DEBIT,20,Transfer to XX1214 
+"Mar 20, 2024",08:44 PM,DEBIT,200,Paid to KUNA ESHWAR SHESHU 
+"Mar 20, 2024",06:25 PM,CREDIT,130,Received from Laxmi Pathi Junior Lpu 
+"Mar 20, 2024",06:25 PM,DEBIT,100,Transfer to XX1214 
+"Mar 20, 2024",11:06 AM,DEBIT,13,Paid to Mukesh vegitable shop 
+"Mar 20, 2024",11:05 AM,DEBIT,5,Transfer to XX1214 
+"Mar 20, 2024",11:03 AM,DEBIT,16,Paid to Shree Ram Enterprises 
+"Mar 20, 2024",10:57 AM,DEBIT,20,Paid to CHARANJEET 
+"Mar 20, 2024",08:54 AM,DEBIT,10,Paid to CAFE 24 X 7 
+"Mar 19, 2024",07:55 PM,DEBIT,22,Paid to Bala ji vegetables 
+"Mar 19, 2024",07:52 PM,DEBIT,29,Paid to BALAJI MART 
+"Mar 19, 2024",06:25 PM,DEBIT,242,Mobile recharged 8309355015 
+"Mar 19, 2024",02:27 PM,DEBIT,55,Paid to RAJINDER KUMAR 
+"Mar 18, 2024",09:42 PM,DEBIT,15,Paid to Gagandeep singh 
+"Mar 18, 2024",09:40 PM,DEBIT,170,Paid to SUJATHA UGGAM 
+"Mar 18, 2024",09:39 PM,CREDIT,500,Received from DAD  
+"Mar 18, 2024",09:39 PM,CREDIT,80,Received from Sattu Revanth Lpu 
+"Mar 18, 2024",05:23 PM,DEBIT,30,Paid to Ajeet PANI PURI CENTER 
+"Mar 18, 2024",05:16 PM,DEBIT,20,Paid to PARMINDER 
+"Mar 18, 2024",01:30 PM,DEBIT,20,Paid to Harmanpreet 
+"Mar 18, 2024",11:51 AM,DEBIT,22,Paid to Ss general store 
+"Mar 17, 2024",08:44 PM,CREDIT,30,Received from Laxmi Pathi Junior Lpu 
+"Mar 17, 2024",06:47 PM,DEBIT,240,Paid to Shiva Teja Friend Lpu 
+"Mar 17, 2024",06:46 PM,DEBIT,100,Paid to Baji Junior Lpu Cricket 
+"Mar 17, 2024",06:45 PM,DEBIT,400,Transfer to XX1214 
+"Mar 17, 2024",02:19 PM,DEBIT,40,Paid to Sattu Revanth Lpu 
+"Mar 17, 2024",02:18 PM,CREDIT,50,Received from Shiva Teja Friend Lpu 
+"Mar 16, 2024",09:00 PM,DEBIT,80,Paid to SUJATHA UGGAM 
+"Mar 16, 2024",08:59 PM,DEBIT,2,Transfer to XX1214 
+"Mar 16, 2024",08:21 PM,DEBIT,20,Paid to Gurjit travels 
+"Mar 16, 2024",01:26 PM,DEBIT,40,Paid to V VEERA BRAHMAM 
+"Mar 16, 2024",09:09 AM,DEBIT,20,Paid to Manjit Kaur 
+"Mar 15, 2024",11:26 PM,CREDIT,110,Received from Sattu Revanth Lpu 
+"Mar 15, 2024",10:34 PM,DEBIT,15,Mobile recharged 8309355015 
+"Mar 15, 2024",10:02 PM,DEBIT,200,Paid to Kcpd Fast Food 
+"Mar 15, 2024",06:22 PM,DEBIT,200,Paid to Mahesh Cricket Lpu 
+"Mar 15, 2024",06:22 PM,CREDIT,200,Received from Sattu Revanth Lpu 
+"Mar 15, 2024",06:12 PM,DEBIT,200,Paid to Mahesh Cricket Lpu 
+"Mar 15, 2024",03:18 PM,DEBIT,20,Paid to Arun Pan Shop 
+"Mar 15, 2024",02:14 PM,DEBIT,27,Paid to Balaji store 
+"Mar 15, 2024",02:03 PM,DEBIT,20,Paid to Auto 
+"Mar 15, 2024",09:12 AM,DEBIT,40,Paid to MANPREET  SINGH 
+"Mar 14, 2024",09:04 PM,DEBIT,20,Paid to Balaji store 
+"Mar 14, 2024",09:02 PM,DEBIT,60,Paid to Bombay chopati ice cream 
+"Mar 14, 2024",07:03 PM,CREDIT,200,Received from Venugopal Bro Lpu 
+"Mar 14, 2024",06:32 PM,DEBIT,500,Paid to Mahesh Cricket Lpu 
+"Mar 14, 2024",06:31 PM,DEBIT,300,Paid to Mahesh Cricket Lpu 
+"Mar 14, 2024",03:58 PM,DEBIT,60,Paid to Munna Bhai Specail Chole Bhoture 
+"Mar 14, 2024",11:43 AM,DEBIT,2,Paid to Bala ji vegetables 
+"Mar 14, 2024",11:42 AM,DEBIT,10,Paid to Bala ji vegetables 
+"Mar 14, 2024",11:41 AM,DEBIT,22,Paid to BALAJI MART 
+"Mar 13, 2024",07:57 PM,DEBIT,300,Transfer to XX1214 
+"Mar 13, 2024",06:09 PM,DEBIT,17,Paid to BALA JI STORE 
+"Mar 13, 2024",05:09 PM,DEBIT,20,Paid to HEMANT KUMAR 
+"Mar 13, 2024",01:46 PM,DEBIT,20,Paid to MANPREET SINGH SO DILBAG SINGH 
+"Mar 13, 2024",01:43 PM,DEBIT,15,Paid to PREET ACCESSORIES 
+"Mar 13, 2024",01:42 PM,DEBIT,90,Paid to SUJATHA UGGAM 
+"Mar 12, 2024",09:15 PM,CREDIT,135,Received from Sattu Revanth Lpu 
+"Mar 12, 2024",08:38 PM,DEBIT,60,Paid to PREET ACCESSORIES 
+"Mar 12, 2024",08:34 PM,DEBIT,180,Paid to SUJATHA UGGAM 
+"Mar 12, 2024",03:23 PM,DEBIT,20,Paid to Saif Ali 
+"Mar 12, 2024",01:52 PM,DEBIT,20,Paid to Ram Kumar Ice Cream 
+"Mar 12, 2024",01:42 PM,DEBIT,60,Paid to V VEERA BRAHMAM 
+"Mar 12, 2024",12:08 PM,DEBIT,20,Paid to MEJOR SINGH 
+"Mar 11, 2024",07:21 PM,DEBIT,10,Paid to Gagandeep singh 
+"Mar 11, 2024",07:14 PM,DEBIT,40,Paid to Ajeet PANI PURI CENTER 
+"Mar 11, 2024",07:04 PM,DEBIT,20,Paid to RAVI KUMAR 
+"Mar 11, 2024",02:44 PM,DEBIT,60,Paid to JINENDER MANDA 
+"Mar 10, 2024",10:23 PM,DEBIT,19,Mobile recharged 7207706494 
+"Mar 10, 2024",08:43 PM,DEBIT,80,Paid to Bombay chopati ice cream 
+"Mar 10, 2024",08:36 PM,DEBIT,90,Paid to Shiva Teja Friend Lpu 
+"Mar 10, 2024",08:14 PM,CREDIT,200,Received from Laxmi Pathi Junior Lpu 
+"Mar 10, 2024",12:31 PM,DEBIT,10,Paid to k k kishor Grocery Store 
+"Mar 10, 2024",12:30 PM,DEBIT,80,Paid to PARAMPARA SOUTH INDIAN SPECIAL 
+"Mar 09, 2024",09:20 PM,DEBIT,80,Paid to SUJATHA UGGAM 
+"Mar 09, 2024",08:05 PM,DEBIT,100,Paid to Pasa Cricket Lpu 
+"Mar 09, 2024",08:03 PM,DEBIT,200,Paid to Sattu Revanth Lpu 
+"Mar 09, 2024",08:03 PM,DEBIT,30,Paid to Sai Friend 2  
+"Mar 09, 2024",08:03 PM,CREDIT,500,Received from Laxmi Pathi Junior Lpu 
+"Mar 09, 2024",08:00 PM,DEBIT,70,Paid to Sai Friend 2  
+"Mar 09, 2024",06:39 PM,CREDIT,745,Received from Sattu Revanth Lpu 
+"Mar 09, 2024",01:45 PM,DEBIT,30,Paid to Gagandeep singh 
+"Mar 09, 2024",01:44 PM,DEBIT,120,Paid to SUJATHA UGGAM 
+"Mar 08, 2024",10:33 PM,DEBIT,15,Mobile recharged 8309355015 
+"Mar 08, 2024",10:07 PM,DEBIT,240,Paid to PRIME CINEMAS LLP 
+"Mar 08, 2024",08:55 PM,DEBIT,60,Paid to Sethi Bakery 
+"Mar 08, 2024",08:51 PM,DEBIT,450,Paid to PRIME CINEMAS LLP 
+"Mar 08, 2024",08:40 PM,DEBIT,140,Paid to PEHALWAN DAIRY 
+"Mar 08, 2024",08:14 PM,DEBIT,90,Paid to LEO HP HIGHWAY SERVICES 
+"Mar 08, 2024",06:33 PM,DEBIT,25,Paid to RAJAPUTA NARENDRA SINGH 
+"Mar 08, 2024",05:31 PM,DEBIT,70,Paid to Ajeet PANI PURI CENTER 
+"Mar 08, 2024",05:09 PM,DEBIT,20,Paid to Naresh kumar 
+"Mar 08, 2024",01:22 PM,DEBIT,20,Paid to MANPREET  SINGH 
+"Mar 08, 2024",11:49 AM,DEBIT,800,Paid to Mahesh Cricket Lpu 
+"Mar 07, 2024",10:03 PM,CREDIT,110,Received from Sattu Revanth Lpu 
+"Mar 07, 2024",09:46 PM,DEBIT,80,Paid to Bombay chopati ice cream 
+"Mar 07, 2024",09:39 PM,DEBIT,115,Paid to PARAMPARA SOUTH INDIAN SPECIAL 
+"Mar 07, 2024",06:45 PM,DEBIT,20,Paid to BABLU KUMAR 
+"Mar 07, 2024",06:40 PM,DEBIT,185,Paid to OME SAI RAM SWEETS AND HOME FOODS 
+"Mar 07, 2024",03:14 PM,DEBIT,20,Paid to Gagandeep singh 
+"Mar 07, 2024",03:11 PM,DEBIT,80,Paid to SUJATHA UGGAM 
+"Mar 07, 2024",12:52 PM,CREDIT,500,Received from Ram Annaya 2 
+"Mar 07, 2024",10:05 AM,DEBIT,20,Paid to BALWINDER KAUR WO SH SOHAN LAL 
+"Mar 07, 2024",09:34 AM,CREDIT,120,Received from Laxmi Pathi Junior Lpu 
+"Mar 07, 2024",08:38 AM,DEBIT,200,Paid to Sai Friend 2  
+"Mar 06, 2024",07:32 PM,DEBIT,13,Paid to RAJESH KUMAR 
+"Mar 06, 2024",07:31 PM,DEBIT,19,Paid to BABLU KUMAR 
+"Mar 06, 2024",06:33 PM,CREDIT,100,Received from Sattu Revanth Lpu 
+"Mar 06, 2024",06:33 PM,DEBIT,400,Paid to Naveen Bro Lpu 
+"Mar 06, 2024",03:28 PM,DEBIT,40,Paid to Lakhwinder kumar 
+"Mar 06, 2024",02:29 PM,DEBIT,28,Paid to TUCK SHOP 28 
+"Mar 06, 2024",01:48 PM,DEBIT,65,Paid to S D ENTERPRISES 
+"Mar 06, 2024",01:35 PM,DEBIT,20,Paid to GURJINDER SINGH SO SH SUKHWINDER SINGH 
+"Mar 05, 2024",10:19 PM,CREDIT,290,Received from Sattu Revanth Lpu 
+"Mar 05, 2024",10:05 PM,DEBIT,15,Paid to Gagandeep singh 
+"Mar 05, 2024",10:03 PM,DEBIT,30,Paid to SUJATHA UGGAM 
+"Mar 05, 2024",04:39 PM,DEBIT,22,Paid to BALA JI STORE 
+"Mar 05, 2024",04:29 PM,DEBIT,20,Paid to Shankar Chaat Bhandar 
+"Mar 05, 2024",04:20 PM,DEBIT,20,Paid to Charanjit 
+"Mar 05, 2024",03:14 PM,DEBIT,10,Paid to Gani 
+"Mar 05, 2024",12:12 PM,DEBIT,40,Paid to V VEERA BRAHMAM 
+"Mar 05, 2024",09:31 AM,DEBIT,36,Paid to SARTHAK AGGARWAL 
+"Mar 05, 2024",12:35 AM,DEBIT,400,Paid to Laxmi Pathi Junior Lpu 
+"Mar 04, 2024",08:52 PM,DEBIT,30,Paid to PEHALWAN DAIRY 
+"Mar 04, 2024",08:50 PM,DEBIT,120,Paid to PEHALWAN DAIRY 
+"Mar 04, 2024",07:06 PM,DEBIT,30,Paid to Sattu Revanth Lpu 
+"Mar 04, 2024",07:06 PM,CREDIT,130,Received from Uppu Lakshmipathi 
+"Mar 04, 2024",06:33 PM,DEBIT,500,Paid to GURU VISHU VARDAHAN  
+"Mar 04, 2024",02:50 PM,DEBIT,30,Paid to Gagandeep singh 
+"Mar 04, 2024",02:48 PM,DEBIT,40,Paid to SUJATHA UGGAM 
+"Mar 04, 2024",02:47 PM,CREDIT,70,Received from Sattu Revanth Lpu 
+"Mar 04, 2024",01:22 PM,DEBIT,10,Paid to BABLU KUMAR 
+"Mar 03, 2024",09:40 PM,DEBIT,100,Paid to Naveen Bro Lpu 
+"Mar 03, 2024",09:40 PM,CREDIT,100,Received from Sattu Revanth Lpu 
+"Mar 03, 2024",09:37 PM,DEBIT,200,Paid to Naveen Bro Lpu 
+"Mar 03, 2024",09:35 PM,CREDIT,180,Received from Sattu Revanth Lpu 
+"Mar 03, 2024",03:01 PM,DEBIT,10,Paid to Gagandeep singh 
+"Mar 03, 2024",03:00 PM,DEBIT,40,Paid to SUJATHA UGGAM 
+"Mar 02, 2024",10:57 PM,DEBIT,996,Paid to ABSOLUTE BARBEQUE PV 
+"Mar 02, 2024",10:57 PM,CREDIT,498,Received from Sattu Revanth Lpu 
+"Mar 02, 2024",10:53 PM,DEBIT,15,Mobile recharged 8309355015 
+"Mar 02, 2024",09:20 PM,CREDIT,500,Received from DAD  
+"Mar 02, 2024",01:51 PM,DEBIT,40,Paid to SUJATHA UGGAM 
+"Mar 02, 2024",09:13 AM,DEBIT,40,Paid to SUBHASH CHANDAR 
+"Mar 01, 2024",08:46 PM,DEBIT,20,Paid to Gagandeep singh 
+"Mar 01, 2024",02:14 PM,DEBIT,15,Paid to Dimpal 
+"Mar 01, 2024",02:12 PM,DEBIT,40,Paid to SUJATHA UGGAM 
+"Feb 29, 2024",07:49 PM,DEBIT,80,Paid to Bombay chopati ice cream 
+"Feb 29, 2024",07:43 PM,DEBIT,110,Paid to SUJATHA UGGAM 
+"Feb 29, 2024",07:14 PM,DEBIT,40,Paid to Ajeet PANI PURI CENTER 
+"Feb 29, 2024",07:01 PM,DEBIT,40,Paid to RAVI KUMAR 
+"Feb 29, 2024",07:01 PM,CREDIT,500,Received from Ram Annaya 2 
+"Feb 28, 2024",07:44 PM,DEBIT,400,Paid to Naveen Bro Lpu 
+"Feb 26, 2024",07:25 PM,DEBIT,30,Paid to Gagandeep singh 
+"Feb 26, 2024",07:21 PM,DEBIT,180,Paid to SUJATHA UGGAM 
+"Feb 26, 2024",05:31 PM,DEBIT,20,Paid to Sangeeta Chat Bhandar 
+"Feb 26, 2024",05:27 PM,DEBIT,5,Paid to Balvir Vaishno Dhaba 2 
+"Feb 26, 2024",05:11 PM,DEBIT,20,Paid to HARBANS LAL 
+"Feb 26, 2024",01:41 PM,DEBIT,20,Paid to Jaswant Kumar 
+"Feb 26, 2024",10:48 AM,DEBIT,28,Paid to BABLU KUMAR 
+"Feb 25, 2024",10:00 PM,CREDIT,500,Received from Mounika 
+"Feb 25, 2024",09:40 PM,DEBIT,100,Paid to KCPD FAST FOOD 
+"Feb 25, 2024",08:38 PM,DEBIT,60,Paid to Ajeet PANI PURI CENTER 
+"Feb 25, 2024",06:49 PM,CREDIT,100,Received from Laxmi Pathi Junior Lpu 
+"Feb 25, 2024",06:10 PM,DEBIT,500,Paid to Naveen Bro Lpu 
+"Feb 25, 2024",12:49 PM,DEBIT,10,Paid to Gagandeep singh 
+"Feb 25, 2024",12:47 PM,DEBIT,60,Paid to SUJATHA UGGAM 
+"Feb 24, 2024",07:06 PM,DEBIT,164,Paid to B.B MART 
+"Feb 24, 2024",05:51 PM,CREDIT,100,Received from Laxmi Pathi Junior Lpu 
+"Feb 24, 2024",01:05 PM,DEBIT,180,Paid to Munna Bhai Specail Chole Bhoture 
+"Feb 24, 2024",01:04 PM,CREDIT,120,Received from Chandu Junior 2 
+"Feb 24, 2024",01:00 PM,DEBIT,110,Paid to SUJATHA UGGAM 
+"Feb 23, 2024",08:20 PM,DEBIT,150,Paid to LEO HP HIGHWAY SERVICES 
+"Feb 23, 2024",06:58 PM,DEBIT,20,Paid to ANURAG COLDRINK SHOP 
+"Feb 23, 2024",02:00 PM,DEBIT,50,Paid to SUJATHA UGGAM 
+"Feb 23, 2024",09:30 AM,DEBIT,100,Paid to Shiva Teja Friend Lpu 
+"Feb 22, 2024",10:06 PM,DEBIT,180,Paid to SUJATHA UGGAM 
+"Feb 22, 2024",05:16 PM,DEBIT,70,Paid to GULSHAN JASWAL 
+"Feb 22, 2024",05:06 PM,DEBIT,20,Paid to Chaudhary Rickshaw Service 
+"Feb 22, 2024",01:30 PM,DEBIT,70,Paid to ANAND DAIRY 
+"Feb 22, 2024",01:16 PM,DEBIT,20,Paid to Charanjit 
+"Feb 21, 2024",08:45 PM,DEBIT,120,Paid to LEO HP HIGHWAY SERVICES 
+"Feb 21, 2024",05:18 PM,DEBIT,20,Paid to HARMANPREET KUMAR RE 
+"Feb 21, 2024",05:17 PM,DEBIT,20,Paid to LACHIREDDY APPALANAI 
+"Feb 21, 2024",01:06 PM,DEBIT,20,Paid to Ramesh Kumar 
+"Feb 21, 2024",01:03 PM,DEBIT,20,Paid to Back House confectionery 
+"Feb 21, 2024",01:01 PM,DEBIT,50,Paid to SUJATHA UGGAM 
+"Feb 20, 2024",06:03 PM,DEBIT,242,Mobile recharged 8309355015 
+"Feb 20, 2024",04:37 PM,DEBIT,50,Paid to Bombay chopati ice cream 
+"Feb 20, 2024",04:26 PM,DEBIT,20,Paid to Naresh kumar 
+"Feb 20, 2024",01:34 PM,DEBIT,80,Paid to Gaurav gupta Alwar trader 
+"Feb 20, 2024",01:23 PM,DEBIT,40,Paid to Ramesh Kumar 
+"Feb 20, 2024",01:20 PM,DEBIT,25,Paid to Gagandeep singh 
+"Feb 19, 2024",10:00 PM,DEBIT,30,Paid to HARPREET SINGH 
+"Feb 19, 2024",09:57 PM,DEBIT,40,Paid to PARAMPARA SOUTH INDIAN SPECIAL 
+"Feb 19, 2024",05:25 PM,DEBIT,50,Paid to Ajeet PANI PURI CENTER 
+"Feb 19, 2024",05:17 PM,DEBIT,20,Paid to Shamsher singh 
+"Feb 19, 2024",01:07 PM,DEBIT,20,Paid to ANANT RAM KWALITY  
+"Feb 19, 2024",12:50 PM,DEBIT,80,Paid to Sham Sweet 
+"Feb 19, 2024",12:40 PM,DEBIT,20,Paid to RAMESH KUMAR 
+"Feb 18, 2024",06:27 PM,DEBIT,50,Paid to RAJESH KUMAR 
+"Feb 17, 2024",10:14 PM,DEBIT,50,Paid to Sattu Revanth Lpu 
+"Feb 17, 2024",07:23 PM,DEBIT,118,Paid to B.B MART 
+"Feb 17, 2024",06:28 PM,DEBIT,50,Paid to Baji Junior Lpu Cricket 
+"Feb 17, 2024",06:24 PM,DEBIT,35,Paid to Ss general store 
+"Feb 17, 2024",06:22 PM,DEBIT,100,Paid to RAJESH KUMAR 
+"Feb 17, 2024",06:00 PM,CREDIT,100,Received from Amit Cricket Lpu 
+"Feb 17, 2024",01:16 PM,DEBIT,20,Paid to Lakhvir kumar 
+"Feb 17, 2024",12:59 PM,DEBIT,70,Paid to NASIR ENTERPRISE FRUIT AND VEGETABLES 
+"Feb 17, 2024",09:14 AM,DEBIT,40,Paid to SUKHNINDER KUMAR 
+"Feb 17, 2024",09:01 AM,DEBIT,20,Paid to MANGA SINGH S O JOGI 
+"Feb 16, 2024",08:20 PM,DEBIT,10,Paid to Deepak  
+"Feb 16, 2024",06:36 PM,DEBIT,600,Paid to Sattu Revanth Lpu 
+"Feb 16, 2024",06:08 PM,DEBIT,60,Paid to Ajeet PANI PURI CENTER 
+"Feb 16, 2024",01:52 PM,DEBIT,25,Paid to Talk of the town 
+"Feb 16, 2024",01:38 PM,DEBIT,70,Paid to Talk of the town 
+"Feb 16, 2024",12:39 PM,DEBIT,20,Paid to Kartik 
+"Feb 16, 2024",12:36 PM,CREDIT,500,Received from DAD  
+"Feb 15, 2024",06:35 PM,DEBIT,10,Paid to Arun Pan Shop 
+"Feb 14, 2024",05:31 PM,DEBIT,20,Paid to Anil auto 
+"Feb 14, 2024",01:48 PM,DEBIT,20,Paid to RAVI KUMAR 
+"Feb 13, 2024",09:05 PM,DEBIT,20,Paid to Pawan Chat Bhandar 
+"Feb 13, 2024",08:13 PM,DEBIT,430,Paid to B.B MART 
+"Feb 13, 2024",08:13 PM,CREDIT,430,Received from Sattu Revanth Lpu 
+"Feb 13, 2024",05:15 PM,DEBIT,20,Paid to Avtar Hundal 
+"Feb 13, 2024",01:31 PM,DEBIT,170,Paid to NASIR ENTERPRISE FRUIT AND VEGETABLES 
+"Feb 13, 2024",01:27 PM,DEBIT,30,Paid to Mahinder kumar 
+"Feb 13, 2024",01:08 PM,DEBIT,20,Paid to HARMANPREET KUMAR RE 
+"Feb 12, 2024",09:52 PM,DEBIT,200,Paid to MD SANJIR 
+"Feb 12, 2024",09:42 PM,DEBIT,70,Paid to PEHALWAN DAIRY 
+"Feb 12, 2024",09:36 PM,DEBIT,40,Paid to PEHALWAN DAIRY 
+"Feb 12, 2024",09:13 PM,DEBIT,90,Paid to Pawan Chat Bhandar 
+"Feb 12, 2024",06:14 PM,DEBIT,220,Paid to Sattu Revanth Lpu 
+"Feb 12, 2024",05:45 PM,DEBIT,80,Paid to Sattu Revanth Lpu 
+"Feb 12, 2024",05:43 PM,DEBIT,40,Paid to PARMINDER 
+"Feb 12, 2024",05:12 PM,DEBIT,20,Paid to KULJIT AUTO 
+"Feb 12, 2024",03:38 PM,DEBIT,70,Paid to Talk of the town 
+"Feb 12, 2024",10:40 AM,DEBIT,20,Paid to Saif Ali 
+"Feb 11, 2024",06:28 PM,DEBIT,20,Paid to BABLU KUMAR 
+"Feb 11, 2024",06:21 PM,DEBIT,100,Paid to Sattu Revanth Lpu 
+"Feb 11, 2024",06:05 PM,DEBIT,200,Paid to Chandu Junior 2 
+"Feb 11, 2024",05:59 PM,CREDIT,150,Received from Baji Junior Lpu Cricket 
+"Feb 11, 2024",12:55 PM,DEBIT,30,Paid to Gagandeep singh 
+"Feb 11, 2024",12:52 PM,DEBIT,150,Paid to Shiva Teja Friend Lpu 
+"Feb 10, 2024",06:18 PM,DEBIT,20,Paid to BABLU KUMAR 
+"Feb 10, 2024",06:09 PM,DEBIT,133,Paid to Baji Junior Lpu Cricket 
+"Feb 10, 2024",06:08 PM,DEBIT,133,Paid to Laxmi Pathi Junior Lpu 
+"Feb 10, 2024",06:07 PM,CREDIT,400,Received from Amit Cricket Lpu 
+"Feb 10, 2024",01:23 PM,DEBIT,70,Paid to S D ENTERPRISES 
+"Feb 10, 2024",12:55 PM,DEBIT,78,Paid to LOVELY SWEETS 
+"Feb 10, 2024",09:05 AM,DEBIT,20,Paid to Lakhwinder kumar 
+"Feb 09, 2024",08:02 PM,DEBIT,10,Paid to D K General Store 
+"Feb 09, 2024",07:59 PM,DEBIT,30,Paid to Ajeet PANI PURI CENTER 
+"Feb 09, 2024",01:39 PM,DEBIT,15,Paid to TUCK SHOP 28 
+"Feb 09, 2024",12:26 PM,DEBIT,65,Paid to S D ENTERPRISES 
+"Feb 09, 2024",12:13 PM,DEBIT,20,Paid to Malkit Kumar 
+"Feb 08, 2024",09:55 PM,DEBIT,30,Paid to Mukesh vegitable shop 
+"Feb 08, 2024",09:53 PM,DEBIT,60,Paid to MOMO HUB 
+"Feb 08, 2024",06:05 PM,DEBIT,100,Paid to Sandy sandwich 
+"Feb 08, 2024",05:20 PM,DEBIT,5,Paid to RAJESH  KUMAR 
+"Feb 08, 2024",01:40 PM,DEBIT,15,Paid to Gagandeep singh 
+"Feb 08, 2024",01:37 PM,DEBIT,40,Paid to SUJATHA UGGAM 
+"Feb 08, 2024",11:47 AM,DEBIT,10,Paid to Makhan tea stall 
+"Feb 08, 2024",08:35 AM,DEBIT,60,Paid to Sandeep Kumar 7380 
+"Feb 07, 2024",08:01 PM,DEBIT,66,Paid to ASHOK KUMAR BANSAL 
+"Feb 07, 2024",07:58 PM,DEBIT,60,Paid to Golu vegetable shop 
+"Feb 07, 2024",02:18 PM,DEBIT,50,Paid to PRAMOD KUMAR 
+"Feb 07, 2024",01:17 PM,DEBIT,65,Paid to S D ENTERPRISES 
+"Feb 07, 2024",10:55 AM,DEBIT,10,Paid to Talk of the town 
+"Feb 07, 2024",10:50 AM,DEBIT,30,Paid to Talk of the town 
+"Feb 07, 2024",08:43 AM,DEBIT,20,Paid to AVTAR KUMAR 
+"Feb 06, 2024",10:08 PM,DEBIT,75,Paid to BABLU KUMAR 
+"Feb 06, 2024",06:50 PM,DEBIT,30,Paid to Mukesh vegitable shop 
+"Feb 06, 2024",06:48 PM,DEBIT,60,Paid to MOMO HUB 
+"Feb 06, 2024",04:19 PM,DEBIT,20,Paid to SrivardhanReddy Lpu Cricket 
+"Feb 06, 2024",03:36 PM,DEBIT,10,Paid to BABLU KUMAR 
+"Feb 06, 2024",01:40 PM,DEBIT,100,Paid to Sandy sandwich 
+"Feb 06, 2024",09:00 AM,DEBIT,10,Paid to CAFE 24 X 7 
+"Feb 06, 2024",08:47 AM,DEBIT,20,Paid to Shamsher singh 
+"Feb 05, 2024",07:37 PM,DEBIT,40,Paid to Shiva Teja Friend Lpu 
+"Feb 05, 2024",06:25 PM,DEBIT,50,Paid to Ajeet PANI PURI CENTER 
+"Feb 05, 2024",12:31 PM,DEBIT,30,Paid to Apna Sabji Wala 
+"Feb 05, 2024",12:21 PM,DEBIT,20,Paid to Gurcharan Singh 
+"Feb 05, 2024",12:10 PM,DEBIT,60,Paid to S D ENTERPRISES 
+"Feb 05, 2024",10:31 AM,CREDIT,425,Received from Taarak Bro Lpu 
+"Feb 05, 2024",09:17 AM,DEBIT,10,Paid to CAFE 24 X 7 
+"Feb 05, 2024",09:10 AM,DEBIT,300,Paid to Sattu Revanth Lpu 
+"Feb 05, 2024",09:07 AM,DEBIT,20,Paid to Saif Ali 
+"Feb 04, 2024",08:43 PM,DEBIT,100,Paid to Gaurav Sahu 
+"Feb 04, 2024",08:42 PM,DEBIT,30,Paid to Mughlai point  
+"Feb 04, 2024",08:33 PM,CREDIT,300,Received from Vicky Bro Cricket Lpu North 
+"Feb 04, 2024",08:24 PM,DEBIT,600,Paid to 6205411846paytm 
+"Feb 04, 2024",07:23 PM,DEBIT,20,Paid to SUBHASH CHANDAR 
+"Feb 04, 2024",05:47 PM,CREDIT,400,Received from Sai Harshit Bro Lpu 
+"Feb 04, 2024",02:53 PM,DEBIT,120,Paid to Vicky Bro Cricket Lpu North 
+"Feb 04, 2024",01:16 PM,DEBIT,100,Paid to Sandy sandwich 
+"Feb 03, 2024",05:47 PM,DEBIT,50,Paid to THE LOVELY FRUITS AND FRESH FOOD 
+"Feb 03, 2024",12:36 PM,CREDIT,120,Received from Rakhi Brajesh Room Lpu 
+"Feb 03, 2024",12:22 PM,DEBIT,150,Paid to GURPREET SO BALVIR RAM 
+"Feb 02, 2024",08:58 PM,DEBIT,28,Paid to BABLU KUMAR 
+"Feb 02, 2024",08:49 PM,DEBIT,75,Payment to Apple Services 
+"Feb 02, 2024",02:20 PM,DEBIT,20,Paid to Balaji store 
+"Feb 02, 2024",02:18 PM,DEBIT,20,Paid to ASHOK KUMAR 
+"Feb 02, 2024",01:30 PM,DEBIT,160,Paid to Akshat general store 
+"Feb 02, 2024",09:17 AM,DEBIT,20,Paid to CAFE 24 X 7 
+"Feb 02, 2024",09:03 AM,DEBIT,20,Paid to PARMINDER 
+"Feb 02, 2024",06:07 AM,CREDIT,200,Received from Sattu Revanth Lpu 
+"Feb 01, 2024",09:04 PM,DEBIT,100,Paid to Mukesh vegitable shop 
+"Feb 01, 2024",07:01 PM,DEBIT,50,Paid to CHINA TOWN 
+"Feb 01, 2024",05:43 PM,DEBIT,35,Paid to Ss general store 
+"Feb 01, 2024",02:19 PM,CREDIT,49,Received from Sattu Revanth Lpu 
+"Feb 01, 2024",10:35 AM,DEBIT,15,Paid to CAMPUS CART 24 
+"Feb 01, 2024",10:21 AM,DEBIT,20,Paid to Gurcharan Singh 

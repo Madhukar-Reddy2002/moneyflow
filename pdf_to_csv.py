@@ -4,70 +4,53 @@ import re
 import pandas as pd
 import os
 import tempfile
-from datetime import datetime
 import base64
 
-def extract_text_from_pdf(pdf_path):
-    with open(pdf_path, 'rb') as pdf_file:
-        pdf_reader = PyPDF2.PdfReader(pdf_file)
-        num_pages = len(pdf_reader.pages)
-        all_page_text = []
+def extract_transactions_from_pdf(pdf_file_path):
+    transactions = []
+    
+    with open(pdf_file_path, 'rb') as file:
+        reader = PyPDF2.PdfReader(file)
+        num_pages = len(reader.pages)
+        
         for page_num in range(num_pages):
-            # Get the page
-            page = pdf_reader.pages[page_num]
+            page = reader.pages[page_num]
+            text = page.extract_text()
             
-            # Extract text from the page
-            page_text = page.extract_text()
-            clean_text = re.sub(r'[^\x00-\x7F]+', '', page_text)
+            # Define patterns for extracting different fields
+            date_pattern = r'[A-Z][a-z]{2} \d{1,2}, \d{4}' # Match date in format "Apr 28, 2024"
+            type_pattern = r'(DEBIT|CREDIT)'
+            time_pattern = r'(\d{2}:\d{2} (?:AM|PM))' 
+            amount_pattern = r'₹\d+(?:,\d+)*\.?\d+'
+            description_pattern = r'(?:AM|PM)\n([\s\S]*?)(?=\nTransaction ID)'
             
-            # Append the text to the list
-            all_page_text.append(clean_text)
+            # Extract data using regex patterns
+            dates = re.findall(date_pattern, text)
+            types = re.findall(type_pattern, text)
+            times = re.findall(time_pattern, text)
+            amounts = re.findall(amount_pattern, text)
+            descriptions = re.findall(description_pattern, text)
             
-        return all_page_text
-
-def process_transactions_text(all_text):
-    pages = []
-    for i in all_text:
-        li = i.split('\n')
-        li2 = li[1::2]
-        pages.append(li2)
-
-    transactions_text = []
-    pattern = r"(\b(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\b.*?)(?=Transaction\sID)"
-    for page in pages:
-        page_text = " ".join(page)
-        matches = re.findall(pattern, page_text)
-        transactions_text.append(matches)
-
-    text = transactions_text[0][0]
-    text = text.split(" ")
-    start = text.index("Amount")
-    text = " ".join(text[start+1:])
-    transactions_text[0][0] = text
-
-    transactions_nice = []
-    for transaction_page in transactions_text:
-        for transaction in transaction_page:
-            # Split the transaction string by spaces and strip each substring
-            stripped_transaction = transaction.split(" ")
-            cleared_transaction = [substr.strip() for substr in stripped_transaction if substr.strip()]
+            cleaned_descriptions = []
+            for transaction in descriptions:
+                # Split the string into parts based on '\n' separator
+                parts = transaction.split('\n')
+                details = parts[2].strip()
+                # Append the cleaned transaction to the list
+                cleaned_descriptions.append(details)
             
-            # Process each cleared transaction
-            month = cleared_transaction[0]
-            date = cleared_transaction[1].rstrip(',')
-            year = cleared_transaction[2]
-            time = cleared_transaction[3] + " " + cleared_transaction[4]
-            transaction_date = datetime.strptime(f"{month} {date} {year} {time}", "%b %d %Y %I:%M %p")
-
-            data = {
-                "date": transaction_date,
-                "type": cleared_transaction[5],
-                "amount": cleared_transaction[6],
-                "payee": " ".join(cleared_transaction[9:])
-            }
-            transactions_nice.append(data)
-
-    return transactions_nice
+            # Combine extracted data into a list of dictionaries
+            for date, typ, time, amount, description in zip(dates, types, times, amounts, cleaned_descriptions):
+                transaction_data = {
+                    "Date": date,
+                    "Type": typ,
+                    "Time": time,
+                    "Amount": amount,
+                    "Description": description
+                }
+                transactions.append(transaction_data)
+    
+    return transactions
 
 def main():
     st.title("PDF Transaction Extractor")
@@ -76,10 +59,15 @@ def main():
     if uploaded_file is not None:
         with tempfile.NamedTemporaryFile(delete=False) as temp_file:
             temp_file.write(uploaded_file.getvalue())
-            all_text = extract_text_from_pdf(temp_file.name)
+            transactions = extract_transactions_from_pdf(temp_file.name)
 
-        transactions_nice = process_transactions_text(all_text)
-        df = pd.DataFrame(transactions_nice)
+        df = pd.DataFrame(transactions)
+
+        # Convert 'Date' column to datetime format
+        df['Date'] = pd.to_datetime(df['Date'], format='%b %d, %Y')
+        # Clean 'Amount' column
+        df['Amount'] = df['Amount'].str.replace('₹', '').str.replace(',', '').astype(float)
+
         st.write("Extracted DataFrame:")
         st.write(df)
 
